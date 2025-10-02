@@ -1,0 +1,1 @@
+“MyMiniProjects is a collection of small, hands-on projects created to explore different programming concepts, tools, and technologies. Each project is self-contained, easy to understand, and designed for learning, experimentation, and showcasing problem-solving skills.”
